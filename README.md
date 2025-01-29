@@ -18,5 +18,6 @@ Insert at this file: public_html/wp-content/plugins/memberpress/app/views/readyl
 This will translate to English x Spanish. If you want to add more languages use the link below and add the flags at FLAGS folder:
 https://memberpress.com/docs/how-to-translate-memberpress/
 
-contact if you need any help. 
+contact if you need any help, open an issue.
+
 buymeacoffee.com/ajudae
