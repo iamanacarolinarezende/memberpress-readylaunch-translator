@@ -21,4 +21,4 @@ Or you can simply use Loco translation plugin</br>
 </br>
 contact if you need any help, open an issue.</br>
 
-buymeacoffee.com/ajudae
+[buymeacoffee.com/ajudae](https://buymeacoffee.com/ajudae)
