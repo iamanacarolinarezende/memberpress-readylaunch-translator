@@ -1,10 +1,10 @@
-***MEMBERPRESS AND READYLAUCH***
-English and Spanish
+***MEMBERPRESS AND READYLAUCH***</br>
+English and Spanish</br>
 This custom code enables translation for the MemberPress plugin, specifically within the ReadyLaunch interface. Since MemberPress does not fully support multilingual plugins like WPML or Polylang within ReadyLaunch templates, this solution dynamically translates interface elements using JavaScript and PHP.
 
 The code works by detecting the current language of the website and replacing text strings inside ReadyLaunch templates. It ensures that all MemberPress pages, including checkout, login, and account pages, display the correct translations without modifying the core plugin files.
 
-**INSTRUCTIONS**
+**INSTRUCTIONS**</br>
 Download and ZIP all files (memberpress-language-switcher.php + flags folder + flags.png)
 Install the plugin
 Insert at this file: public_html/wp-content/plugins/memberpress/app/views/readylaunch/layout/app.php (line 31) (this code will make the dropdown appear at Account / Registration
